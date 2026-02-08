@@ -14,3 +14,6 @@ Décrire l’idée globale du projet.
 
 ## Quality Bar
 - Standards attendus (tests, style, perf, SEO, etc.)
+
+## Current Block
+- Block: <blockId>
